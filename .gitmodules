@@ -1,0 +1,15 @@
+[submodule "Equipo4_T4"]
+	path = Equipo4_T4
+	url = git@github.com:josemanuelsanchezmunoz/Equipo4_T4.git
+[submodule "Tarea-5-K-means-K-NN"]
+	path = Tarea-5-K-means-K-NN
+	url = git@github.com:josemanuelsanchezmunoz/Tarea-5-K-means-K-NN.git
+[submodule "TAREA-2-DISE-O-DE-SISTEMA-EMBEBIDO"]
+	path = TAREA-2-DISE-O-DE-SISTEMA-EMBEBIDO
+	url = git@github.com:josemanuelsanchezmunoz/TAREA-2-DISE-O-DE-SISTEMA-EMBEBIDO.git
+[submodule "Drivers-GPIO-ESP32"]
+	path = Drivers-GPIO-ESP32
+	url = git@github.com:josemanuelsanchezmunoz/Drivers-GPIO-ESP32.git
+[submodule "Proyecto_unidad_4_jose_sanchez"]
+	path = Proyecto_unidad_4_jose_sanchez
+	url = git@github.com:josemanuelsanchezmunoz/Proyecto_unidad_4_jose_sanchez.git
